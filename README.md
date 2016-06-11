@@ -1,2 +1,6 @@
 # hello-world
-This is my hello-world repository!
+
+Hi Humans!
+
+Nitro here, I like Java and C++ (that's what I'm made of!).
+I've had tacos on the moon and find them far superior to Earth tacos.
